@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @tamasmakos
-- 👀 I’m interested in blockchain, data science and making new friends
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me: tamasmakos at gmail dot com
 
 <!---
