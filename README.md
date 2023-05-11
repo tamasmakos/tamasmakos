@@ -1,7 +1,1 @@
-- 👋 Hi, I’m @tamasmakos
-- 📫 How to reach me: tamasmakos at gmail dot com
-
-<!---
-tamasmakos/tamasmakos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Experienced digital marketer turned data enthusiast. Currently advancing my statistics and data analytics knowledge in a Masters program. My toolset includes Python, SQL, R, and JavaScript. Involved in academic research, leveraging ML to predict survey responses. Eager to tackle challenging problems and grow my skills. Open to new opportunities.
