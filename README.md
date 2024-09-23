@@ -1,1 +1,1 @@
-My experience at Y-Combinator, Budapest Stock Exchange and Financial Times top companies has given me valuable expertise in solving complex business problems and driving growth with digital transformation, data science and advanced website analytics
+I believe that as a Data Scientist, my true value lies in having a background in growth marketing, therefore I have strong business acumen and a deep understanding of how leveraging data and technology can directly impact business growth.
