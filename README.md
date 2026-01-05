@@ -1,1 +1,3 @@
-I believe that as a Data Scientist, my true value lies in having a background in growth marketing, therefore I have strong business acumen and a deep understanding of how leveraging data and technology can directly impact business growth.
+I always have ideas on how graphs, deep learning, and LLMs can improve business. 
+
+My experience includes high-growth environments from Y Combinator and Financial Times leading companies, as well as larger enterprise environments in telecommunications and finance.
